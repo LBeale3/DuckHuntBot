@@ -1,8 +1,24 @@
 {
-“name”: “DuckHuntBot”,
-“version”: “1.0.0”,
-“description”: “Keeps Track of Ducks.”,
-“main”: “bot.js”,
-“author”: “NotPapaJohns#0001”,
-“dependencies”: {}
+  "name": "duckhuntbot",
+  "version": "1.0.0",
+  "description": "A Discord bot. Hunts Ducks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LBeale3/DuckHuntBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LBeale3/DuckHuntBot/issues"
+  },
+  "homepage": "https://github.com/LBeale3/DuckHuntBot#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0"
+  }
 }
