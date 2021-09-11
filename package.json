@@ -1,0 +1,8 @@
+{
+“name”: “DuckHuntBot”,
+“version”: “1.0.0”,
+“description”: “Keeps Track of Ducks.”,
+“main”: “bot.js”,
+“author”: “NotPapaJohns#0001”,
+“dependencies”: {}
+}
